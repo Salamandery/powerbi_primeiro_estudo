@@ -71,10 +71,7 @@ Este repositório contém um estudo prático de criação de dashboards interati
 ---
 
 ## 👤 Autor
-
-<p align="center">
-  <b>by Rodolfo M. F. Abreu</b>
-</p>
+by **Rodolfo M. F. Abreu**
 
 ---
 
